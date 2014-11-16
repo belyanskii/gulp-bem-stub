@@ -1,0 +1,27 @@
+{
+  "name": "mustached-octo-bear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belyanskii/mustached-octo-bear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belyanskii/mustached-octo-bear/issues"
+  },
+  "homepage": "https://github.com/belyanskii/mustached-octo-bear",
+  "dependencies": {
+    "bem-walk": "0.0.4",
+    "deps-resolver": "0.0.1",
+    "gulp": "^3.8.10",
+    "gulp-bem": "^1.0.1",
+    "gulp-concat": "^2.4.1",
+    "tech-deps.js": "0.0.1"
+  }
+}
